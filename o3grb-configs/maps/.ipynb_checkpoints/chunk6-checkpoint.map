@@ -1,0 +1,8 @@
+L1-HDF_TRIGGER_MERGE_FULL_DATA-1241724868-760282.hdf /home/tdent/o3/analysis/pycbc/c00/hl/a6_1/output/full_data/L1-HDF_TRIGGER_MERGE_FULL_DATA-1241724868-760282.hdf pool="local"
+H1-HDF_TRIGGER_MERGE_FULL_DATA-1241724868-760282.hdf /home/tdent/o3/analysis/pycbc/c00/hl/a6_1/output/full_data/H1-HDF_TRIGGER_MERGE_FULL_DATA-1241724868-760282.hdf pool="local"
+H1-MERGE_PSDS-1241724868-760282.hdf /home/tdent/o3/analysis/pycbc/c00/hl/a6_1/output/psds/H1-MERGE_PSDS-1241724868-760282.hdf pool="local"
+L1-MERGE_PSDS-1241724868-760282.hdf /home/tdent/o3/analysis/pycbc/c00/hl/a6_1/output/psds/L1-MERGE_PSDS-1241724868-760282.hdf pool="local"
+H1-FIT_BY_TEMPLATE_FULL_DATA-1241724868-760282.hdf /home/tdent/o3/analysis/pycbc/c00/hl/a6_1/output/fit_by_template/H1-FIT_BY_TEMPLATE-1241724868-760282.hdf pool="local"
+L1-FIT_BY_TEMPLATE_FULL_DATA-1241724868-760282.hdf /home/tdent/o3/analysis/pycbc/c00/hl/a6_1/output/fit_by_template/L1-FIT_BY_TEMPLATE-1241724868-760282.hdf pool="local"
+H1-FIT_OVER_PARAM_FULL_DATA-1241724868-760282.hdf /home/tdent/o3/analysis/pycbc/c00/hl/a6_1/output/fit_over_param/H1-FIT_OVER_PARAM-1241724868-760282.hdf pool="local"
+L1-FIT_OVER_PARAM_FULL_DATA-1241724868-760282.hdf /home/tdent/o3/analysis/pycbc/c00/hl/a6_1/output/fit_over_param/L1-FIT_OVER_PARAM-1241724868-760282.hdf pool="local"
